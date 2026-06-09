@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="CityEngine" level="application" />
+    <orderEntry type="library" name="CityEngine (2)" level="project" />
   </component>
 </module>
