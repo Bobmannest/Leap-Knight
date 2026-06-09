@@ -1,7 +1,5 @@
 Leap Knight is a Java-based 2D physics platformer featuring dynamic movement mechanics, interactive environments, and multiple gameplay systems including combat, collectibles, and physics-based challenges.
 
----
-
 ## Features
 
 - Physics-based movement and platforming
@@ -16,14 +14,10 @@ Leap Knight is a Java-based 2D physics platformer featuring dynamic movement mec
 - Fully playable character controller
 - And more to explore!
 
----
-
 ## Technologies Used
 
 - Java
 - Custom JBox2D engine (included in lib folder)
-
----
 
 ## Build Instructions
 
